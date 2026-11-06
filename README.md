@@ -4,6 +4,10 @@
 
 [查看 Skill](skills/business-process-diagrams/SKILL.md) · [制图规范](skills/business-process-diagrams/references/mermaid-standard.md)
 
+![业务流程图绘制技能：业务资料经过 Agent 梳理后形成 Mermaid 全局图、模块图、可编辑源文件与功能覆盖清单](skill-overview.png)
+
+*技能工作方式示意图，由 AI 生成。*
+
 让 Agent 从产品经理的角度，把业务说明、需求文档和系统资料整理成 Mermaid 流程图册。
 
 先确定业务模块，再画全局流程，随后展开每个模块的完整流程。图中写清谁来处理、系统怎样判断、状态怎么变化，以及异常之后交给谁。
