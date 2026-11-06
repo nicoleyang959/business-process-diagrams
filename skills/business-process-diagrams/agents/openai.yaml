@@ -1,0 +1,3 @@
+interface:
+  display_name: "业务流程图绘制"
+  short_description: "梳理业务规则并绘制可验证的 Mermaid 流程图册"
