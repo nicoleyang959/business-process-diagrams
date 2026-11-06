@@ -1,5 +1,7 @@
 # Business Process Diagrams
 
+**简体中文** | [English](README.en.md)
+
 **业务流程图绘制**
 
 [查看 Skill](skills/business-process-diagrams/SKILL.md) · [制图规范](skills/business-process-diagrams/references/mermaid-standard.md)
